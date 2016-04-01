@@ -1,7 +1,7 @@
 # Site settings
 
 title: That's so wizard # Title of your site
-email: your-email@domain.com # Your contant email
+email: sowizard@users.noreply.github.com # Your contant email
 
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -22,4 +22,4 @@ facebook_username:    example  # Replace this with your Facebook username
 dribbble_username:    example  # Replace this with your Dribbble username
 
 # Build settings
-markdown: kramdown
+# markdown: kramdown
