@@ -30,4 +30,4 @@ It's probably well known that Apple is developing an electric car, which is most
 
 Since this is May the 4th, happy Star Wars day!
 
-![/images/maytheforce.gif](May the Fourth be with you.)
+![May the Fourth be with you.](/images/maytheforce.gif)
