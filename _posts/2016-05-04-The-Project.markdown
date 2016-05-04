@@ -2,8 +2,6 @@
 layout: post
 ---
 
-# The Project
-
 It's always a bit difficult choosing how to start writing about a new project. Here goes.
 
 I thought it would be fun to try and experiment with getting a small RC car to drive around a track by itself. This would be an exercise in embedded programming, computer vision and system dynamics as well as an exploration into machine learning. I know little of machine learning (having only studied Andrew Ng's Coursera course), but I think a project like this would be a good platform to theoretically and empirically study the various machine learning techniques and compare them to classical control methods.
@@ -32,5 +30,4 @@ It's probably well known that Apple is developing an electric car, which is most
 
 Since this is May the 4th, happy Star Wars day!
 
-
-
+![/images/maytheforce.gif](May the Fourth be with you.)
