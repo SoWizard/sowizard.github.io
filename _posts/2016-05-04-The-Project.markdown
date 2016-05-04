@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 ---
 
 It's always a bit difficult choosing how to start writing about a new project. Here goes.
