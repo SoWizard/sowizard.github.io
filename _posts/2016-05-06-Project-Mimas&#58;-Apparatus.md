@@ -13,7 +13,7 @@ I began my search at HobbyKing. They have a local warehouse in Australia and a s
 
 I ended up purchasing a Tamiya Rising Storm off-road buggy. The Rising Storm has a 1/10 scale, so it's around 40cm in length and 25cm in width. It's based on the DF-02 chassis, which has been on the market since 2004, so cheap parts and mods should be easy to find. It's shaft-driven 4WD from a single brushed electric motor (type 540). Tires are 86mm in diameter and each tire has its own suspension that can be easily adjusted by adding spacers. Stiffening the suspension would allow me to add more load without the chassis touching the ground. The electric motor would preferrably be brushless, but that would require a new motor controller. The buggy runs at a sufficiently high speed and acceleration with this current setup so there's no justifying the cost of upgrading. I'm not even sure I'll be able to get it to autonomously run at its max speed! Eye-balling it, I would say it's maybe around 20-25km/h?
 
-There were cheaper alternatives to the Tamiya at around $120, but I thought the extra investment would pay off in the event that I (or any friends/family) would like to futher modify and race this car.
+There were cheaper alternatives to the Tamiya at around $120, but I thought the extra investment would pay off in the event that I (or any friends/family) would like to further modify and race this car.
 
 ![Tamiya Rising Storm](/images/platform_full.jpg)
 
@@ -57,7 +57,7 @@ So it appears it can accept voltages between 4.8V - 6.0V with higher voltages in
 
 #### Battery & Power
 
-As mentioned before, I opted to choose LiPos instead of NiMH batteries. They seem to be much more common with hobbyists these days and come in all range of sizes and capacities. They also tend to be lighter and have much higher discharge rates (allows for brushless motors to be used). I order a Turnigy 2 cell (7.4V) 3600mAh from HobbyKing. It has a decent 30-40C discharge (sidenote: at first I was very confused why it's 30-40C. Does it mean the max is 30C or 40C?! Turns out that it means at constant discharge, the max is 30C but it can peak up to 40C for 10 seconds).
+As mentioned before, I opted to choose LiPos instead of NiMH batteries. They seem to be much more common with hobbyists these days and come in all range of sizes and capacities. They also tend to be lighter and have much higher discharge rates (allows for brushless motors to be used). I order a Turnigy 2 cell (7.4V) 3600mAh from HobbyKing. It has a decent 30-40C discharge (side note: at first I was very confused why it's 30-40C. Does it mean the max is 30C or 40C?! Turns out that it means at constant discharge, the max is 30C but it can peak up to 40C for 10 seconds).
 
 The discharge connector was a 4mm bullet connector. XT-60s are again quite polular and a lot of accessories tend to use them. I ordered a few male and female XT-60 connectors from HobbyKing and soldered the female on my batteries. Be sure to use shrink wrap! You dont want exposed wires, especially not on your LiPos.
 
