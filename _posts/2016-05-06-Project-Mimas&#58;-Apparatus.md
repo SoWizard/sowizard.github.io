@@ -19,7 +19,7 @@ I ended up purchasing a Tamiya Rising Storm off-road buggy. The Rising Storm has
 
 There were cheaper alternatives to the Tamiya at around $120, but I thought the extra investment would pay off in the event that I (or any friends/family) would like to further modify and race this car.
 
-<img alt="Tamiya Rising Storm" src="/images/platform_full.jpg" class="fit image">
+<img alt="Tamiya Rising Storm" src="/images/platform_full.JPG" class="fit image">
 
 ### Internals
 
@@ -36,7 +36,7 @@ These are the only two electronic components need to drive the car.
 - TEU-105BK Brushed ESC ([datasheet](https://www.tamiyausa.com/pdf/manuals/45055ml.pdf))
 - TRU-08 2.4GHz 2-channel wireless receiver ([transmitter datasheet](http://www.tamiya.com/japan/download/rcmanual/45053.pdf))
 
-![ESC and Radio Receiver](/images/platform_esc.jpg)
+<img alt="ESC and Radio Receiver" src="/images/platform_esc.jpg" class="fit image">
 
 ESC stands for Electronic Speed controller. It receives a message from the transmitter as a PWM signal (Pulse Width Modulated, read more here) and 'translates' that into the appropriate power level to the motor. 
 
