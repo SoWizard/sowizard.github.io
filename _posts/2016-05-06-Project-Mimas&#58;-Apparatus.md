@@ -9,7 +9,7 @@ Finding the perfect platform was a little bit more difficult than I imagined; I'
 
 My only requirements for the platform was that it follows Ackermann steering geometry, so that the system models a real car as close as possible. This of course rules out any differential steering platforms that use tracks/treads (tanks etc). Ackermann steering allows the inner wheel to angle itself further into the turn to minimise forces on the wheels and thereby reduce slip. This is necessary because the inner and outer wheel have different radii as they make the turn (thereby different normals to the circle they make). The following Wikipedia figure does an *okay* job of demonstrating the principle. It might be hard to tell but the inner and outer wheel are *not* parallel and thereby make different angles from the turning point origin. Read more about it at this excellent write-up [here](http://www.me.ua.edu/me364/PDF/Steering_Ackerman.pdf).
 
-![Ackermann Steering](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ackermann_turning.svg/2000px-Ackermann_turning.svg.png)
+<img alt="Ackermann Steering" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Ackermann_turning.svg/2000px-Ackermann_turning.svg.png" class="fit image">
 
 Different radii on the inner and outer wheel means that in order to keep up with each other, the outer wheel has to spin at a greater speed than the inner wheel. Most RC cars have a front and rear differential which allows the wheels to turn at different speeds. [This](https://youtu.be/K4JhruinbWc?t=1m50s) is a quite excellent old school video demonstrating the need for a differential.
 
@@ -19,13 +19,13 @@ I ended up purchasing a Tamiya Rising Storm off-road buggy. The Rising Storm has
 
 There were cheaper alternatives to the Tamiya at around $120, but I thought the extra investment would pay off in the event that I (or any friends/family) would like to further modify and race this car.
 
-![Tamiya Rising Storm](/images/platform_full.jpg)
+<img alt="Tamiya Rising Storm" src="/images/platform_full.jpg" class="fit image">
 
 ### Internals
 
 And here's a shot of it with the top off (oh my, manners!).
 
-![Tamiya Rising Storm internals](/images/platform_top.jpg)
+<img alt="Tamiya Rising Storm internals" src="/images/platform_top.jpg" class="fit image">
 
 The motor can be seen in the bottom left. You can also see the trapezoidal steering linkage for Ackermann steering. The battery is mounted on the port side and is held down by spring-type split pins. Small tip, you can bend the ends of the split pin so it's easier to hold onto while removing and inserting.
 
@@ -69,7 +69,7 @@ Unfortunately Tamiya have a proprietary battery connector. Instead of cutting an
 
 LiPos are not meant to be discharged completely. It does significant damage to the lifetime of the battery. It turns out that the ESC has an in-built low-voltage cutoff for LiPos but I bought a battery indicator and alarm (also from HobbyKing) to scream out when the battery is running low.
 
-![Battery and adapters](/images/platform_battery.jpg)
+<img alt="Battery and XT-60 adapter" src="/images/platform_battery.jpg" class="fit image">
 
 [//]: # Insert about second BEC, how to power other electronics, power calculations etc.
 
