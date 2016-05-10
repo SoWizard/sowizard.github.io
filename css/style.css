@@ -455,7 +455,6 @@
 		border: 0;
 		display: inline-block;
 		position: relative;
-		width: 100% !important;
 	}
 
 		.image:before {
@@ -517,6 +516,7 @@
 		.image img {
 			border-radius: 0.35em;
 			display: block;
+			width: 100% !important;
 		}
 
 		.image.left {
