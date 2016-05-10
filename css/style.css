@@ -433,7 +433,7 @@
 		text-decoration: none;
 		border-bottom: none;
 		position: relative;
-		color: #ffffff;
+		color: #ffffff !important;
 	}
 
 		.icon:before {
