@@ -1,3 +1,7 @@
+---
+layout: post
+comments: true
+---
 
 Finding the perfect platform was a little bit more difficult than I imagined; I'd like to keep this as inexpensive as possible. This post will outline all the gear that I bought along with the respective price and tally it at the end for your convenience and mine.
 
